@@ -26,6 +26,3 @@ function funcion1( nombre ) {
     console.log(variable2);
 }
 
-
-console.log(coche1);
-console.log(coche2);
